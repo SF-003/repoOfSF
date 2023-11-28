@@ -1,9 +1,9 @@
 ---
 name: Bug report SF
 about: Create a report to help us improve
-title: ''
+title: '[Bug]'
 labels: ''
-assignees: ''
+assignees: 'SF-003'
 
 ---
 
